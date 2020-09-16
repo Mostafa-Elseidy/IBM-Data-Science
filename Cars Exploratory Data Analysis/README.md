@@ -9,5 +9,15 @@ As a Data Analyst or Data Scientist, these are some of the questions we can star
 ## Goal
 The goal of this project is to determine which car features that best predict its price.
 ## Dataset Description
-<img src="Snapshots\Attributes.png" alt="Attributes">
-Just a quick note the dataset is actually from 1985.
+<img src="Snapshots\Attributes.png" alt="Attributes">      
+Just a quick note the dataset is actually from 1985.      
+## Data Cleaning notebook      
+1. Basic Insight of Dataset
+2. Data Wrangling
+  1. Identify and Handle Missing Values
+  - Correct Data Format
+  - Data Standardization
+  - Data Normalization
+  - Binning
+  - Indicator Variable (Dummy Variable)
+  ##
