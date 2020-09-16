@@ -9,6 +9,5 @@ As a Data Analyst or Data Scientist, these are some of the questions we can star
 ## Goal
 The goal of this project is to determine which car features that best predict its price.
 ## Dataset Description
-![Attributes](Snapshots\body-style-vs-price.png)
-<img src="Snapshots\body-style-vs-price.png" alt="Bears">
+<img src="Snapshots\Attributes.png" alt="Attributes">
 Just a quick note the dataset is actually from 1985.
