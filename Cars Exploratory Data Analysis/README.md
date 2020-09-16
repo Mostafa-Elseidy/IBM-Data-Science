@@ -44,7 +44,10 @@ Just a quick note the dataset is actually from 1985.
           
 ## Snapshots of Exploratory Data Analytsis
 
-
+<img src="Snapshots\body-style-vs-price.png" alt="body-style-vs-price">  
+<img src="Snapshots\engine-size-vs-price.png" alt="engine-size-vs-price"> 
+<img src="Snapshots\Heatmap-drive-wheels-body-style-and-price.png" alt="Heatmap">
+        
 ## Conclusion     
 We now have a better idea of what our data looks like and which variables are important to take into account when predicting the car price. We have narrowed it down to the following variables:
 
