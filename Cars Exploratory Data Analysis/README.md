@@ -1,4 +1,4 @@
-# Automobile Data Analysis
+# Automobile Exploratory Data Analysis
 ![classic-car](classic-car.jpg)
 
 ## Table of Content
