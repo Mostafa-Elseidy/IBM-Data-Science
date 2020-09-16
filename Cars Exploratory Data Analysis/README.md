@@ -36,3 +36,25 @@ Just a quick note the dataset is actually from 1985.
   <li>Correlation</li>
   <li>ANOVA</li>
 </ol>
+## Snapshors of Exploratory Data Analytsis
+<img src="Snapshots\body-style-vs-price.png" alt="body-style-vs-price">  
+<img src="Snapshots\engine-size-vs-price.png" alt="engine-size-vs-price"> 
+<img src="Snapshots\Heatmap-drive-wheels-body-style-and-price.png" alt="Heatmap">
+## Conclusion     
+We now have a better idea of what our data looks like and which variables are important to take into account when predicting the car price. We have narrowed it down to the following variables:
+
+Continuous numerical variables:
+
+- Length
+- Width
+- Curb-weight
+- Engine-size
+- Horsepower
+- City-L/100km
+- Highway-L/100km
+- Wheel-base
+- Bore
+
+Categorical variables:
+
+- Drive-wheels
