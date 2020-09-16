@@ -1,5 +1,5 @@
 # Automobile Data Analysis
-<img src=classic-car.jpg" alt="classic-car">  
+![classic-car](classic-car.jpg)
 
 ## Table of Content
 1. [Problem Description](#chapter1) 
