@@ -1,7 +1,7 @@
 # Automobile Data Analysis
+<img src="https://www.classic-cars-for-rent.com/assets/images/home-header.jpg" alt="classic-car">  
 
 ## Table of Content
-
 1. [Problem Description](#chapter1) 
 2. [Goal](#chapter2)
 3. [Dataset Description](#chapter3)
