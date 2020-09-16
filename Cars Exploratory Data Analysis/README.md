@@ -1,5 +1,5 @@
 # Automobile Data Analysis
-<img src="https://www.classic-cars-for-rent.com/assets/images/home-header.jpg" alt="classic-car">  
+<img src=classic-car.jpg" alt="classic-car">  
 
 ## Table of Content
 1. [Problem Description](#chapter1) 
